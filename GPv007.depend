@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1380349870 source:d:\dropbox\code\graphics\graphic platform\gpv007\glslprogram.cpp
+	<GL/glew.h>
+	<GL/glut.h>
+	"GLSLProgram.h"
+	<iostream>
+	<cstdio>
+
+1380349870 d:\dropbox\code\graphics\graphic platform\gpv007\glslprogram.h
+	<GL/glut.h>
+	<glm/glm.hpp>
+
+1387680570 source:d:\dropbox\code\graphics\graphic platform\gpv007\ogl_trivialfunc.cpp
+	<GL/glew.h>
+	<GL/freeglut.h>
+
+1388477959 source:d:\dropbox\code\graphics\graphic platform\gpv007\raytracer.cpp
+	"RayTracer.h"
+	<glm/glm.hpp>
+	<GL/freeglut.h>
+	<iostream>
+	<vector>
+	<algorithm>
+	<cmath>
+	<thread>
+	"sharedata.h"
+
+1388478073 d:\dropbox\code\graphics\graphic platform\gpv007\raytracer.h
+	<glm/glm.hpp>
+	<vector>
+
+1386491044 d:\dropbox\code\graphics\graphic platform\gpv007\sharedata.h
+
+1385460312 source:d:\dropbox\code\graphics\graphic platform\gpv007\scene.cpp
+	<GL/glew.h>
+	"SCENE.h"
+	"shaderloader.h"
+	<iostream>
+
+1384758703 d:\dropbox\code\graphics\graphic platform\gpv007\scene.h
+	"RayTracer.h"
+
+1384486785 d:\dropbox\code\graphics\graphic platform\gpv007\shaderloader.h
+	<string>
+
+1384486510 source:d:\dropbox\code\graphics\graphic platform\gpv007\shaderloader.cpp
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+
+1387870301 source:d:\dropbox\code\graphics\graphic platform\gpv007\main.cpp
+	<GL/freeglut.h>
+	"ogl_trivialfunc.h"
+	"SCENE.h"
+	<iostream>
+	<memory>
+	"sharedata.h"
+	<ctime>
+	<chrono>
+	<string>
+
+1380349866 d:\dropbox\code\graphics\graphic platform\gpv007\ogl_trivialfunc.h
+
